@@ -1,0 +1,19 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "Project for learning cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakrit79/cypress-project.git"
+  },
+  "author": "Prakrit Baidya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakrit79/cypress-project/issues"
+  },
+  "homepage": "https://github.com/prakrit79/cypress-project#readme"
+}
