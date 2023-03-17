@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/prakrit79/cypress-project/issues"
   },
-  "homepage": "https://github.com/prakrit79/cypress-project#readme"
+  "homepage": "https://github.com/prakrit79/cypress-project#readme",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
 }
